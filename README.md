@@ -1,8 +1,9 @@
 # ideabox
 
 
-Websites for aggregating various projects
+# Web / Desktop apps
 
+Websites for aggregating various projects
 
 
 
@@ -16,6 +17,20 @@ Sketch plugins
 - https://projects.plantapp.io/tutorials
 - https://www.animaapp.com/
 - 
+
+
+## Project Management 
+
+## Tech Stacks to master 
+
+- Isomorphic CLJS
+- CLJ + Cljs + fulcro 
+- golang + gopherjs
+- angularJS +  .net core 
+- kotlin / swift 
+- C# xamarin forms
+- Desktop apps xamarin forms 
+
 
 ## Mobile
 https://medium.mybridge.co/38-amazing-android-open-source-apps-java-1a62b7034c40?gi=445c84e25f27
