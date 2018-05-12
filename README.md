@@ -75,7 +75,11 @@ http://www.ideamachine.io
 
 https://github.com/BayatGames/RedRunner
 
-## Azure
+## Cloud
+
+Azure 
+Digital Ocean
+Heroku
 
 
 
