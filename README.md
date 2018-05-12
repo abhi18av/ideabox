@@ -36,7 +36,7 @@ Sketch plugins
 - C# xamarin forms
 - Desktop apps xamarin forms 
 - neo4j
-- sql server 
+- sqlite
 - postgresql
 
 ## Mobile
