@@ -26,6 +26,7 @@ Sketch plugins
 - Isomorphic CLJS
 - CLJ + Cljs + fulcro 
 - golang + gopherjs
+- reason-react 
 - angularJS +  .net core 
 - kotlin / swift 
 - C# xamarin forms
