@@ -29,11 +29,13 @@ Sketch plugins
 - CLJ + Cljs + fulcro 
 - golang + gopherjs
 - reason-react 
-- angularJS +  .net core 
+- angularJS +  .net core [ spa + mvc ] 
 - kotlin / swift 
 - C# xamarin forms
 - Desktop apps xamarin forms 
-
+- neo4j
+- sql server 
+- postgresql
 
 ## Mobile
 https://medium.mybridge.co/38-amazing-android-open-source-apps-java-1a62b7034c40?gi=445c84e25f27
