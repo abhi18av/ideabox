@@ -7,6 +7,10 @@ Websites for aggregating various projects
 
 
 
+## Project Documentation
+
+- Business Model and presentation stuff
+- Wireframes
 
 # Prototyping
 
@@ -20,8 +24,6 @@ Sketch plugins
 
 
 ## Project Management 
-
-## Project Documentation
 
 ## Tech Stacks to master 
 
